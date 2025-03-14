@@ -1,0 +1,94 @@
+Image Similarity Analysis Summary
+Timestamp: 20250306-214222
+Total processing time: 19.06 seconds
+
+Target: page10_item4.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page10_item4
+Top 5 matches:
+  1. page10_item4.jpg - Similarity: 1.0000 - Match: Yes
+  2. page9_item6.jpg - Similarity: 0.7235 - Match: Yes
+  3. page7_item5.jpg - Similarity: 0.6908 - Match: No
+  4. page1_item2.jpg - Similarity: 0.6315 - Match: No
+  5. page8_item9.jpg - Similarity: 0.6314 - Match: No
+
+Target: page10_item5.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page10_item5
+Top 5 matches:
+  1. page10_item5.jpg - Similarity: 1.0000 - Match: Yes
+  2. page10_item7.jpg - Similarity: 0.6189 - Match: No
+  3. page1_item5.jpg - Similarity: 0.6056 - Match: No
+  4. page4_item6.jpg - Similarity: 0.5761 - Match: No
+  5. page4_item5.jpg - Similarity: 0.5680 - Match: No
+
+Target: page10_item6.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page10_item6
+Top 5 matches:
+  1. page10_item6.jpg - Similarity: 1.0000 - Match: Yes
+  2. page6_item3.jpg - Similarity: 0.8313 - Match: Yes
+  3. page1_item10.jpg - Similarity: 0.8114 - Match: Yes
+  4. page9_item3.jpg - Similarity: 0.7466 - Match: Yes
+  5. page2_item11.jpg - Similarity: 0.7122 - Match: Yes
+
+Target: page10_item8.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page10_item8
+Top 5 matches:
+  1. page10_item8.jpg - Similarity: 1.0000 - Match: Yes
+  2. page10_item10.jpg - Similarity: 0.9389 - Match: Yes
+  3. page1_item8.jpg - Similarity: 0.9016 - Match: Yes
+  4. page4_item3.jpg - Similarity: 0.8549 - Match: Yes
+  5. page3_item4.jpg - Similarity: 0.8532 - Match: Yes
+
+Target: page1_item4.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page1_item4
+Top 5 matches:
+  1. page1_item4.jpg - Similarity: 1.0000 - Match: Yes
+  2. page1_item5.jpg - Similarity: 0.8749 - Match: Yes
+  3. page1_item10.jpg - Similarity: 0.7253 - Match: Yes
+  4. page2_item11.jpg - Similarity: 0.7240 - Match: Yes
+  5. page7_item2.jpg - Similarity: 0.6849 - Match: No
+
+Target: page2_item3.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page2_item3
+Top 5 matches:
+  1. page2_item3.jpg - Similarity: 1.0000 - Match: Yes
+  2. page6_item2.jpg - Similarity: 0.6883 - Match: No
+  3. page1_item9.jpg - Similarity: 0.6286 - Match: No
+  4. page4_item3.jpg - Similarity: 0.6179 - Match: No
+  5. page4_item4.jpg - Similarity: 0.5775 - Match: No
+
+Target: page2_item5.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page2_item5
+Top 5 matches:
+  1. page2_item5.jpg - Similarity: 1.0000 - Match: Yes
+  2. page7_item2.jpg - Similarity: 0.7453 - Match: Yes
+  3. page3_item10.jpg - Similarity: 0.7335 - Match: Yes
+  4. page1_item2.jpg - Similarity: 0.7168 - Match: Yes
+  5. page9_item2.jpg - Similarity: 0.7024 - Match: Yes
+
+Target: page6_item2.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page6_item2
+Top 5 matches:
+  1. page6_item2.jpg - Similarity: 1.0000 - Match: Yes
+  2. page4_item4.jpg - Similarity: 0.6906 - Match: No
+  3. page2_item3.jpg - Similarity: 0.6883 - Match: No
+  4. page1_item6.jpg - Similarity: 0.5661 - Match: No
+  5. page7_item4.jpg - Similarity: 0.4843 - Match: No
+
+Target: page6_item7.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page6_item7
+Top 5 matches:
+  1. page6_item7.jpg - Similarity: 1.0000 - Match: Yes
+  2. page6_item9.jpg - Similarity: 0.9138 - Match: Yes
+  3. page9_item3.jpg - Similarity: 0.9080 - Match: Yes
+  4. page4_item11.jpg - Similarity: 0.8416 - Match: Yes
+  5. page9_item10.jpg - Similarity: 0.7913 - Match: Yes
+
+Target: page9_item11.jpg
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250306-214222\page9_item11
+Top 5 matches:
+  1. page9_item11.jpg - Similarity: 1.0000 - Match: Yes
+  2. page4_item10.jpg - Similarity: 0.9868 - Match: Yes
+  3. page7_item10.jpg - Similarity: 0.9712 - Match: Yes
+  4. page7_item9.jpg - Similarity: 0.9630 - Match: Yes
+  5. page9_item4.jpg - Similarity: 0.9167 - Match: Yes
+

@@ -1,0 +1,13 @@
+Image Similarity Analysis Summary
+Timestamp: 20250314-185914
+Total processing time: 3.31 seconds
+
+Target: page2_item6.png
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250314-185914\page2_item6
+Top 5 matches:
+  1. page9_item9.png - Similarity: 0.8690 - Match: Yes
+  2. page6_item9.png - Similarity: 0.8681 - Match: Yes
+  3. page4_item2.png - Similarity: 0.8442 - Match: Yes
+  4. page4_item9.png - Similarity: 0.8149 - Match: Yes
+  5. page6_item8.png - Similarity: 0.8090 - Match: Yes
+

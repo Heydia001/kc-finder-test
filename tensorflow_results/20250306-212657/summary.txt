@@ -1,0 +1,84 @@
+TensorFlow ResNet50 Image Similarity Analysis Summary
+Timestamp: 20250306-212657
+Total processing time: 141.75 seconds
+
+Target: page10_item4.jpg
+Top 5 matches:
+  1. page10_item4.jpg - Similarity: 1.0000
+  2. page9_item6.jpg - Similarity: 0.8165
+  3. page8_item2.jpg - Similarity: 0.6797
+  4. page10_item2.jpg - Similarity: 0.5882
+  5. page7_item10.jpg - Similarity: 0.5862
+
+Target: page10_item5.jpg
+Top 5 matches:
+  1. page10_item5.jpg - Similarity: 1.0000
+  2. page8_item5.jpg - Similarity: 0.5135
+  3. page3_item3.jpg - Similarity: 0.5058
+  4. page8_item11.jpg - Similarity: 0.4858
+  5. page9_item9.jpg - Similarity: 0.4812
+
+Target: page10_item6.jpg
+Top 5 matches:
+  1. page10_item6.jpg - Similarity: 1.0000
+  2. page7_item2.jpg - Similarity: 0.6534
+  3. page3_item11.jpg - Similarity: 0.6443
+  4. page1_item10.jpg - Similarity: 0.6199
+  5. page3_item2.jpg - Similarity: 0.5815
+
+Target: page10_item8.jpg
+Top 5 matches:
+  1. page10_item8.jpg - Similarity: 1.0000
+  2. page3_item4.jpg - Similarity: 0.7210
+  3. page10_item9.jpg - Similarity: 0.7162
+  4. page4_item4.jpg - Similarity: 0.6458
+  5. page1_item10.jpg - Similarity: 0.6321
+
+Target: page1_item4.jpg
+Top 5 matches:
+  1. page1_item4.jpg - Similarity: 1.0000
+  2. page1_item5.jpg - Similarity: 0.8255
+  3. page6_item11.jpg - Similarity: 0.6607
+  4. page3_item6.jpg - Similarity: 0.5890
+  5. page3_item10.jpg - Similarity: 0.5639
+
+Target: page2_item3.jpg
+Top 5 matches:
+  1. page2_item3.jpg - Similarity: 1.0000
+  2. page5_item11.jpg - Similarity: 0.7011
+  3. page4_item3.jpg - Similarity: 0.6997
+  4. page3_item2.jpg - Similarity: 0.6592
+  5. page9_item8.jpg - Similarity: 0.6497
+
+Target: page2_item5.jpg
+Top 5 matches:
+  1. page2_item5.jpg - Similarity: 1.0000
+  2. page2_item4.jpg - Similarity: 0.6914
+  3. page1_item9.jpg - Similarity: 0.6595
+  4. page8_item7.jpg - Similarity: 0.6520
+  5. page2_item2.jpg - Similarity: 0.6516
+
+Target: page6_item2.jpg
+Top 5 matches:
+  1. page6_item2.jpg - Similarity: 1.0000
+  2. page5_item11.jpg - Similarity: 0.6832
+  3. page3_item2.jpg - Similarity: 0.6737
+  4. page3_item4.jpg - Similarity: 0.6418
+  5. page4_item3.jpg - Similarity: 0.6349
+
+Target: page6_item7.jpg
+Top 5 matches:
+  1. page6_item7.jpg - Similarity: 1.0000
+  2. page9_item10.jpg - Similarity: 0.8668
+  3. page8_item2.jpg - Similarity: 0.7057
+  4. page6_item4.jpg - Similarity: 0.7039
+  5. page6_item8.jpg - Similarity: 0.6479
+
+Target: page9_item11.jpg
+Top 5 matches:
+  1. page9_item11.jpg - Similarity: 1.0000
+  2. page4_item6.jpg - Similarity: 0.8833
+  3. page4_item9.jpg - Similarity: 0.8637
+  4. page7_item7.jpg - Similarity: 0.8508
+  5. page6_item5.jpg - Similarity: 0.8301
+

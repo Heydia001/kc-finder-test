@@ -1,0 +1,13 @@
+Image Similarity Analysis Summary
+Timestamp: 20250310-223321
+Total processing time: 2.83 seconds
+
+Target: test_01-removebg-preview.png
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250310-223321\test_01-removebg-preview
+Top 5 matches:
+  1. test_02-removebg-preview.png - Similarity: 0.8968 - Match: Yes
+  2. page2_item5.jpg - Similarity: 0.7003 - Match: Yes
+  3. page7_item8.jpg - Similarity: 0.5909 - Match: No
+  4. page7_item2.jpg - Similarity: 0.5380 - Match: No
+  5. page1_item2.jpg - Similarity: 0.5316 - Match: No
+

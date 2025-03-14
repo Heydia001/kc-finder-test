@@ -1,0 +1,84 @@
+TensorFlow ResNet50 Image Similarity Analysis Summary
+Timestamp: 20250306-215616
+Total processing time: 144.67 seconds
+
+Target: CB014H049-5001_1.jpg
+Top 5 matches:
+  1. page7_item10.jpg - Similarity: 0.8188
+  2. page4_item9.jpg - Similarity: 0.8134
+  3. page9_item11.jpg - Similarity: 0.8077
+  4. page6_item5.jpg - Similarity: 0.7949
+  5. page7_item7.jpg - Similarity: 0.7914
+
+Target: CB014H477-5003_1.jpg
+Top 5 matches:
+  1. page7_item10.jpg - Similarity: 0.8063
+  2. page10_item2.jpg - Similarity: 0.7907
+  3. page4_item8.jpg - Similarity: 0.7657
+  4. page8_item2.jpg - Similarity: 0.7564
+  5. page4_item7.jpg - Similarity: 0.7529
+
+Target: CB014H477-5005_1.jpg
+Top 5 matches:
+  1. page7_item6.jpg - Similarity: 0.7797
+  2. page10_item2.jpg - Similarity: 0.7119
+  3. page9_item4.jpg - Similarity: 0.7082
+  4. page6_item9.jpg - Similarity: 0.6981
+  5. page7_item7.jpg - Similarity: 0.6977
+
+Target: CB014R714-5003_1.jpg
+Top 5 matches:
+  1. page7_item6.jpg - Similarity: 0.7230
+  2. page6_item9.jpg - Similarity: 0.7117
+  3. page8_item3.jpg - Similarity: 0.7101
+  4. page2_item4.jpg - Similarity: 0.7082
+  5. page9_item4.jpg - Similarity: 0.6904
+
+Target: CB014R890-5002_1.jpg
+Top 5 matches:
+  1. page7_item9.jpg - Similarity: 0.7861
+  2. page9_item4.jpg - Similarity: 0.7653
+  3. page5_item3.jpg - Similarity: 0.7318
+  4. page6_item9.jpg - Similarity: 0.7304
+  5. page10_item2.jpg - Similarity: 0.7200
+
+Target: CB015H0401-5002_3.jpg
+Top 5 matches:
+  1. page1_item5.jpg - Similarity: 0.7117
+  2. page6_item11.jpg - Similarity: 0.6525
+  3. page8_item7.jpg - Similarity: 0.6211
+  4. page5_item5.jpg - Similarity: 0.6087
+  5. page1_item9.jpg - Similarity: 0.6056
+
+Target: CB015R1236-5029_1.jpg
+Top 5 matches:
+  1. page1_item3.jpg - Similarity: 0.7109
+  2. page8_item7.jpg - Similarity: 0.6876
+  3. page3_item4.jpg - Similarity: 0.6871
+  4. page5_item11.jpg - Similarity: 0.6625
+  5. page8_item9.jpg - Similarity: 0.6614
+
+Target: CB015R1574-5001_3.jpg
+Top 5 matches:
+  1. page2_item7.jpg - Similarity: 0.8026
+  2. page8_item7.jpg - Similarity: 0.7762
+  3. page8_item8.jpg - Similarity: 0.7613
+  4. page2_item11.jpg - Similarity: 0.7458
+  5. page8_item10.jpg - Similarity: 0.7421
+
+Target: CB017H218-5001_1.jpg
+Top 5 matches:
+  1. page1_item5.jpg - Similarity: 0.7142
+  2. page5_item9.jpg - Similarity: 0.6184
+  3. page3_item11.jpg - Similarity: 0.5967
+  4. page5_item11.jpg - Similarity: 0.5755
+  5. page6_item11.jpg - Similarity: 0.5605
+
+Target: CB017R082-5005_1.jpg
+Top 5 matches:
+  1. page4_item4.jpg - Similarity: 0.6677
+  2. page1_item10.jpg - Similarity: 0.6055
+  3. page10_item8.jpg - Similarity: 0.5794
+  4. page3_item4.jpg - Similarity: 0.5450
+  5. page10_item9.jpg - Similarity: 0.5445
+

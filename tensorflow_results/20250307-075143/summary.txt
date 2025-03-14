@@ -1,0 +1,12 @@
+TensorFlow ResNet50 Image Similarity Analysis Summary
+Timestamp: 20250307-075143
+Total processing time: 23.90 seconds
+
+Target: test_01.jpg
+Top 5 matches:
+  1. page8_item7.jpg - Similarity: 0.7618
+  2. page8_item6.jpg - Similarity: 0.7540
+  3. page2_item4.jpg - Similarity: 0.7406
+  4. page8_item10.jpg - Similarity: 0.7400
+  5. page5_item4.jpg - Similarity: 0.7342
+

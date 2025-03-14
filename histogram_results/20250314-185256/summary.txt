@@ -1,0 +1,13 @@
+Image Similarity Analysis Summary
+Timestamp: 20250314-185256
+Total processing time: 2.70 seconds
+
+Target: 10484108_h-removebg-preview.png
+Result folder: C:/KDH/kc-finder-test/histogram_results/20250314-185256\10484108_h-removebg-preview
+Top 5 matches:
+  1. similar-product (4).png - Similarity: 0.9913 - Match: Yes
+  2. similar-product (5).png - Similarity: 0.9867 - Match: Yes
+  3. similar-product (1).png - Similarity: 0.9836 - Match: Yes
+  4. similar-product (3).png - Similarity: 0.9823 - Match: Yes
+  5. similar-product (2).png - Similarity: 0.9775 - Match: Yes
+

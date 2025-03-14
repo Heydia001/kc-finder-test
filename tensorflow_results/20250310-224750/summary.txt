@@ -1,0 +1,12 @@
+TensorFlow ResNet50 Image Similarity Analysis Summary
+Timestamp: 20250310-224750
+Total processing time: 20.82 seconds
+
+Target: test_01-removebg-preview.png
+Top 5 matches:
+  1. test_03-removebg-preview.png - Similarity: 0.7975
+  2. page2_item4.jpg - Similarity: 0.6933
+  3. page8_item10.jpg - Similarity: 0.6899
+  4. page8_item7.jpg - Similarity: 0.6748
+  5. test_02-removebg-preview.png - Similarity: 0.6742
+
